@@ -1,9 +1,9 @@
-package main
+package gen
 
 import (
 	"crypto/rand"
-	"math/big"
 	"fmt"
+	"math/big"
 )
 
 // Filter items based on a test
